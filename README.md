@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Algorithms-to-Play-Mario
+# Reinforcement Learning Algorithms to Play Mario
 
 # Data
 
